@@ -1,0 +1,30 @@
+
+  ..  MMMMMMMMMMMMMMMMMMM 
+      MMM+,=MM+++++M+MMMMMMMM 
+     MM==+,=MM+++++M+==MMMMMM 
+   MMM++++,===++==,M++++====M 
+   MM+,==+====+=====+====,,=M 
+   MM+,==+===============,,=M 
+   MM++=======M===MMMMMM====M 
+   MM++=====MMMMMM,,M,,M===M  
+   MM+MMMMMM..,,,,,,,,,M=MMM  
+   MM+M::,,,,,,,,,,,,,,,M
+   MMMM:::,MMMMMMM,,MMMMM.    
+     MM:::,,MMMM,,,,,MMM      
+     MM:::,,,,,,,,,,,,,M      
+   MMMM:::.,,,,MMMMM,,,MMMM   
+  M ..M::::,,,,,MMM,,MMM.MM
+.MMMM..MM::::::,,,,,MMM.MMMM  
+M8:88M~O888=+++===M8M~~:,,,M  
+M::.,,. ...........MM,:::,,M 
+M::,,,M ............MMM::MMM  
+.M,,,,M .............MMMMMM   
+  MMMMM88O?ZOOOOOO?OOOOOM..   
+  M888888OOO88OO88888OOOOMM   
+  M,,,,,,,,,,,MM,,,,,,,,,MM    
+  M,,,,,,,,MMMMMMM,,,,,,,,M    
+  M,,,,,,MMM     MMM,,,,,MM
+   M,,,,,M          M,,,,M
+    M,,,M            M,,,M
+   M,,,,M           MMMMMMMM
+MMMMMMMMMM         MMMMMMMMMM 
